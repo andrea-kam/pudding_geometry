@@ -21,6 +21,10 @@ Image("pudding_diagram.png", width=200)
 
 # # Baking and eating
 
+# ## Instructions
+# - You may run each cell (each box) by clicking onto it then pressing Ctrl + Enter.
+# - You may change the parameters of 
+
 # Please specify the height h, upper radius r1, and lower radius r2, of your delicious pudding
 cny_pudding = Pudding(h=1, r1=2, r2=3)
 
